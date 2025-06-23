@@ -1,1 +1,5 @@
 # UNP_PROJECT_WITH_SQL_HR_DATASET
+
+During my internship with United Network of Professionals (UNP Education), I have worked on a project with sql on HR data.The project includes a well-structured database design with three tables (EmpPerformance, EmpDepartments, and EmpDetails) to store employee performance, department, and employee details data, respectively.A backup database named Human_Resources_Backup is created to ensure data safety and provide a restore point for the main database.The contents of the tables in the backup database are copied to the main Human_Resources database, ensuring data consistency between the two databases. A set of SQL queries is provided to analyze the data in the Human_Resources database, covering aspects such as employee distribution, salary analysis, department performance, and recruitment source analysis. These queries can help the organization make informed decisions based on the data.
+
+PROJECT FILE: https://drive.google.com/file/d/1S54wC4WEK-zX5DsnxAvnkGfa426nG9PQ/view?usp=sharing
